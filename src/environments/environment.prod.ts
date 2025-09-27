@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://tu-dominio.com/api',
+  apiUrl: 'https://sistema-inventarios-backend.onrender.com/',
   appName: 'Sistema de Inventarios',
   appVersion: '1.0.0',
   defaultLanguage: 'es',
