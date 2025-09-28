@@ -1,4 +1,8 @@
 [build]
-base = ""
 publish = "dist/sistema-inventario"
-command = "npm ci && npm run build
+command = "npm ci && npm run build"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
