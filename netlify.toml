@@ -1,0 +1,4 @@
+[build]
+base = "frontend"
+publish = "dist/sistema-inventario"
+command = "npm ci && npm run build
